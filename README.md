@@ -1,4 +1,4 @@
-# GSP313
+# GSP313 Create and Manage Cloud Resources: Challenge Lab
 
 #### When you run all the commands you need wait 8-10min (better 10) and only after it check the result on cloudskillsboost platform
 
